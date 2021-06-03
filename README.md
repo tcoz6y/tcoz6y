@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tcoz6y&show_icons=true&theme=vue" alt="tang's github stats" />
 
-### Hi there, I'm [tang](https://zhen.tcozy.online/) 🎉
+### Hi there  👋, I'm [tang](https://zhen.tcozy.online/) 🎉
 
 - 🇨🇳 Chinese
 - 🧑🏻‍💻 &nbsp;Programmer
