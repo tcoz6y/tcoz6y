@@ -2,7 +2,7 @@
 
 ### Hi there  👋, I'm [tang](https://zhen.tcozy.online/) 🎉
 
-- 🇨🇳 Chinese
+- 🇨🇳 Chengdu, China
 - 🧑🏻‍💻 &nbsp;Programmer
 - 🌏 Open-source software developer
 - ⚡ Go, Java, Python, ...
